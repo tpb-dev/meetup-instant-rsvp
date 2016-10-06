@@ -1,2 +1,2 @@
 # meetup-instant-rsvp
-This script, Meetup Instant RSVP, when run in the crontab (recommended to run once every 15 minutes!) will automatically RSVP all possible events in your specified list of Meetup groups where you are a member. 
+This script, Meetup Instant RSVP, when run in the crontab (recommended to run once every 15 minutes!) will automatically RSVP all possible events in your specified list of Meetup groups where you are a member. You can be notified via Google Calendar and Twilio SMS
